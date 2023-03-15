@@ -1,0 +1,11 @@
+
+
+
+1. Configure the jars in Java Project
+
+2. Configure the driver 
+     firefox ---> geckodriver.exe
+
+testautomationuniversity
+
+    
